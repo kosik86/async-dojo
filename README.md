@@ -1,7 +1,6 @@
 # AsyncDojo
 
 The purpose of this dojo is to practice writing asynchronous loops using promises. 
-Also we will practice wrapping 3rd party module (a.k.a blackbox).
 
 
 ## How this program should work ##
